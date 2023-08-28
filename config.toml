@@ -1,4 +1,4 @@
 baseURL = 'http://albertogarrido.dev/'
 languageCode = 'en-us'
 title = 'Alberto Garrido | Software Engineer'
-theme = 'ananke'
+theme = 'hugo-profile'
